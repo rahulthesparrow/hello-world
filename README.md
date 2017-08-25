@@ -1,2 +1,3 @@
 # hello-world
-algorithm
+algorithms
+sth lile greedy algorithms  graph coloring 
